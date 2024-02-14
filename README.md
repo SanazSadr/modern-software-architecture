@@ -1,4 +1,4 @@
-# Modern Software Architecture
+# Modern Software Architecture: Domain Models, CQRS, and Event Sourcing
 
 This document covers DDD patterns and the architecture of a business domain.
 
